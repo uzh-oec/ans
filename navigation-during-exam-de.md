@@ -1,10 +1,10 @@
 ---
-id: exam_overview_de
-title: Prüfungsübersicht
+id: navigation_during_exam_de
+title: Navigation in der Prüfung
 parent: Prüfungsnavigation
 ---
 
-## Prüfungsübersicht
+## Navigation in der Prüfung
 
 1. Auf der rechten Seite der Plattform sehen Sie Ihnen zugewiesenen Assignments:
 * Scheduled assignments (a)
