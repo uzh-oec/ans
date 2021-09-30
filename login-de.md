@@ -6,7 +6,7 @@ title: Ans Login
 ## Ans Login
 
 1. Klicken Sie [hier](https://ans.app/users/sign_in){:target="_blank"}. oder kopieren Sie den folgenden Link [https://ans.app/users/sign_in](https://ans.app/users/sign_in){:target="_blank"} in deinen Browser (Firefox oder Chrome)
-![Login-WAYF](assets/login-wayf.png)
+![Login-WAYF](assets/login-wayf.png){:.no-lightbox}
 
 1. Bei **Log in with your school account** geben Sie “University of Zurich” ein
 ![Login-UZH](assets/login-uzh.png)
@@ -22,5 +22,6 @@ title: Ans Login
 
 Bei Login Problemen wenden Sie sich bitte an: [support@oec.uzh.ch](mailto:support@oec.uzh.ch)
 
-
+<script type="text/javascript" src="/js/lightbox.js"></script>
+<link rel="stylesheet" href="/css/lightbox.css">
 
