@@ -24,6 +24,6 @@ title: Ans Login
 
 ***
 
-Bei Login Problemen wenden Sie sich bitte an: [support@oec.uzh.ch](mailto:support@oec.uzh.ch)
+Bei Login-Problemen wenden Sie sich bitte an: [support@oec.uzh.ch](mailto:support@oec.uzh.ch)
 
 [Back to top ](#top){: .btn }
