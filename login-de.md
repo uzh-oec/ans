@@ -6,7 +6,7 @@ title: Ans Login
 ## Ans Login
 
 1. Klicken Sie [hier](https://ans.app/users/sign_in){:target="_blank"}. oder kopieren Sie den folgenden Link [https://ans.app/users/sign_in](https://ans.app/users/sign_in){:target="_blank"} in Ihren Browser (Firefox oder Chrome)
-[![Login-WAYF](assets/login-wayf.png)](assets/login-wayf.png)
+![Login-WAYF](assets/login-wayf.png)
 
 1. Unter **Log in with your school account** geben Sie “University of Zurich” oder "UZH" ein
 ![Login-UZH](assets/login-uzh.png)
