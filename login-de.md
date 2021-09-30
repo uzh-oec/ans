@@ -9,7 +9,7 @@ title: Ans Login
 ![Login-WAYF](assets/login-wayf.png)
 
 1. Bei **Log in with your school account** geben Sie “University of Zurich” ein
-![Login-UZH](assets/login-uzh)
+![Login-UZH](assets/login-uzh.png)
 
 1. Sobald Sie “University of Zurich (UZH) auswählen, werden Sie zum AAI-Login der Universität Zürich weitergeleitet und melden sich da mit Ihrer UZH-Kennung und Passwort an
 ![Login-AAI](assets/login-aai.png)
