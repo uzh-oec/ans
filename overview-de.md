@@ -24,7 +24,7 @@ title: Plattformübersicht
 * Das Hilfesymbol mit dem [Help Center](https://support.ans.app/hc/en-us){:target="_blank"} für weitere Ressourcen
 ![Startseite-Uebersicht-Hilfe](assets/overview-help.png)
 
-
+[Back to top ](#top){: .btn }
 
 
 
