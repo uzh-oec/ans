@@ -5,3 +5,5 @@ nav_order: 1
 ---
 # Ans Dokumentation
 
+1. Inhalt
+{:toc}
