@@ -1,5 +1,4 @@
 ---
-layout: docs
 id: login_de
 title: Ans Login
 ---
