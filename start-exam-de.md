@@ -2,6 +2,7 @@
 id: start_exam_de
 title: Prüfung starten
 parent: Prüfungsnavigation
+nav_order: 1
 ---
 
 ## Prüfung starten

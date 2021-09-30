@@ -2,6 +2,7 @@
 id: exam_attachments_de
 title: Attachments
 parent: Prüfungsnavigation
+nav_order: 4
 ---
 
 ## Attachments

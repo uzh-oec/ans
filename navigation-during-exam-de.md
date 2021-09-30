@@ -2,6 +2,7 @@
 id: navigation_during_exam_de
 title: Navigation in der Prüfung
 parent: Prüfungsnavigation
+nav_order: 3
 ---
 
 ## Navigation in der Prüfung

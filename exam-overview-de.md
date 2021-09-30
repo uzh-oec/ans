@@ -2,6 +2,7 @@
 id: exam_overview_de
 title: Prüfungsübersicht
 parent: Prüfungsnavigation
+nav_order: 2
 ---
 
 ## Prüfungsübersicht
