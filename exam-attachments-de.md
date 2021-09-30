@@ -1,10 +1,10 @@
 ---
-id: exam_overview_de
-title: Prüfungsübersicht
+id: exam_attachments_de
+title: Attachments
 parent: Prüfungsnavigation
 ---
 
-## Prüfungsübersicht
+## Attachments
 
 1. Auf der rechten Seite der Plattform sehen Sie Ihnen zugewiesenen Assignments:
 * Scheduled assignments (a)
@@ -25,6 +25,7 @@ parent: Prüfungsnavigation
 ![Startseite-Uebersicht-Hilfe](assets/overview-help.png)
 
 [Back to top ](#top){: .btn }
+
 
 
 
