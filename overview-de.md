@@ -21,7 +21,6 @@ title: Plattformübersicht
 1. Oben rechts finden Sie:
 * Das Profilsymbol für Kontoeinstellungen & Logout  
 ![Startseite-Uebersicht-Einstellungen](assets/overview-settings.png)
-
 * Das Hilfesymbol mit dem [Help Center](https://support.ans.app/hc/en-us){:target="_blank"} für weitere Ressourcen
 ![Startseite-Uebersicht-Hilfe](assets/overview-help.png)
 
