@@ -1,5 +1,6 @@
 title: "Ans"
 remote_theme: pmarsceill/just-the-docs
+color_scheme: light
 search_enabled: true
 search:
   # Split pages into sections that can be searched individually
@@ -24,4 +25,4 @@ search:
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
   button: false
-color_scheme: light
+
