@@ -3,7 +3,7 @@ id: overview_de
 title: Plattformübersicht
 ---
 
-## Ans Login
+## Plattformübersicht (Overview)
 
 1. Auf der rechten Seite der Plattform sehen Sie Ihnen zugewiesenen Assignments:
 * Scheduled assignments (a)
@@ -19,7 +19,7 @@ title: Plattformübersicht
 ![Startseite-Uebersicht-Links](assets/overview-left.png)
 
 1. Oben rechts finden Sie:
-* Das Profilsymbol für Kontoeinstellungen & Logout
+* Das Profilsymbol für Kontoeinstellungen & Logout  
 ![Startseite-Uebersicht-Einstellungen](assets/overview-settings.png)
 
 * Das Hilfesymbol mit dem [Help Center](https://support.ans.app/hc/en-us){:target="_blank"} für weitere Ressourcen
