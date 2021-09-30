@@ -9,7 +9,6 @@ title: Plattformübersicht
 * Scheduled assignments (a)
 * Live assignments (b)
 * Published assignments (c)
-
 ![Startseite-Uebersicht-Rechts](assets/overview-right.png)
 
 1. Oben links finden Sie folgendes:

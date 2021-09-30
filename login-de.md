@@ -17,6 +17,8 @@ title: Ans Login
 1. Bei erfolgreichem Login ist nun oben links der Name & die Institution – University of Zurich – ersichtlich.
 ![Login-Start](assets/login-start.png)
 
+***
+
 **Hinweis:** Nach erstmaligem Login ist die Institutionseinstellung jeweils bereits vorvermerkt:
 ![Login-Return](assets/login-return.png)
 
