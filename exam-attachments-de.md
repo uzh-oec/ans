@@ -7,23 +7,19 @@ nav_order: 4
 
 ## Attachments
 
-1. Auf der rechten Seite der Plattform sehen Sie Ihnen zugewiesenen Assignments blabla:
-* Scheduled assignments (a)
-* Live assignments (b)
-* Published assignments (c)
-![Startseite-Uebersicht-Rechts](assets/overview-right.png)
+Wenn Attachements in der Prüfung vorhanden sind, dann ist dies **oben** im Screen ersichtlich
+![Split-Screen-Leiste](assets/attachments-bar.png)
 
-1. Oben links finden Sie folgendes:
-* Die Suchleiste (a)
-* Ihren Namen und die Institution (b)
-* Die Kurse in welchen Sie eingeschrieben sind (c)
-![Startseite-Uebersicht-Links](assets/overview-left.png)
+1. Um den Anhang einzusehen, klicke darauf. Hier: **Demo Attachment Ans.pdf**
+![Attachment-Screen](assets/attachments-view.png)
 
-1. Oben rechts finden Sie:
-* Das Profilsymbol für Kontoeinstellungen & Logout  
-![Startseite-Uebersicht-Einstellungen](assets/overview-settings.png)
-* Das Hilfesymbol mit dem [Help Center](https://support.ans.app/hc/en-us){:target="_blank"} für weitere Ressourcen
-![Startseite-Uebersicht-Hilfe](assets/overview-help.png)
+1. Nutze die **Split Screen** Funktion, um die Prüfung als auch den Anhang gleichzeitig anzuzeigen
+![Attachment-SplitScreen-Bar](attachments-splitbar.png)
+
+
+**Split Screen Visualisierung**
+![Attachment-SplitScreen](assets/attachments-splitscreen.png)
+
 
 [Back to top ](#top){: .btn }
 
