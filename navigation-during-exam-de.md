@@ -7,23 +7,18 @@ nav_order: 3
 
 ## Navigation in der Prüfung
 
-1. Auf der rechten Seite der Plattform sehen Sie Ihnen zugewiesenen Assignments:
-* Scheduled assignments (a)
-* Live assignments (b)
-* Published assignments (c)
-![Startseite-Uebersicht-Rechts](assets/overview-right.png)
+# Navigieren anhand der Fragenleiste unten im Fenster
+![Prüfungsnavigation-Fragenleiste](assets/navigation-bottombar.png)
 
-1. Oben links finden Sie folgendes:
-* Die Suchleiste (a)
-* Ihren Namen und die Institution (b)
-* Die Kurse in welchen Sie eingeschrieben sind (c)
-![Startseite-Uebersicht-Links](assets/overview-left.png)
+1. Möglichkeit: Navigieren anhand der Pfeile
+* **Zurück** zur vorherigen Frage mit ← (Im Screenshot: unten links)
+* **Weiter** zur nächsten Frage mit → (Im Screenshot: unten rechts)
 
-1. Oben rechts finden Sie:
-* Das Profilsymbol für Kontoeinstellungen & Logout  
-![Startseite-Uebersicht-Einstellungen](assets/overview-settings.png)
-* Das Hilfesymbol mit dem [Help Center](https://support.ans.app/hc/en-us){:target="_blank"} für weitere Ressourcen
-![Startseite-Uebersicht-Hilfe](assets/overview-help.png)
+1. Möglichkeit: spezifische Frage auswählen
+* Wähle eine beliebige Seite / Frage an
+![Prüfungsnavigation-Fragenleiste-klein](assets/navigation-bottombar-small.png)
+
+**Hinweis:**: beantwortete Fragen sind «orange» markiert (siehe Frage 4)
 
 [Back to top ](#top){: .btn }
 
