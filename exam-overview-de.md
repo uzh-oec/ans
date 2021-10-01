@@ -7,7 +7,7 @@ nav_order: 2
 
 ## Prüfungsübersicht
 
-1. Auf der rechten Seite der Plattform sehen Sie Ihnen zugewiesenen Assignments:xfgjfghj
+1. Auf der rechten Seite der Plattform sehen Sie Ihnen zugewiesenen Assignments:xfgjfghjgf
 * Scheduled assignments (a)
 * Live assignments (b)
 * Published assignments (c)
