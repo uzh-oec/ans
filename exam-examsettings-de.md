@@ -1,6 +1,6 @@
 ---
-id: login_de
-title: Ans Login
+id: examsettings_de
+title: Prüfungseinstellungen
 ---
 
 ## Prüfungseinstellungen
