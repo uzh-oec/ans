@@ -1,5 +1,5 @@
 ---
-id: exam-navigation_de
+id: exam_navigation_de
 title: Prüfungsnavigation
 has_children: true
 ---
