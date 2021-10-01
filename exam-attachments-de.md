@@ -7,7 +7,7 @@ nav_order: 4
 
 ## Attachments
 
-1. Auf der rechten Seite der Plattform sehen Sie Ihnen zugewiesenen Assignments:
+1. Auf der rechten Seite der Plattform sehen Sie Ihnen zugewiesenen Assignments blabla:
 * Scheduled assignments (a)
 * Live assignments (b)
 * Published assignments (c)
