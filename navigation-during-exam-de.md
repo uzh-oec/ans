@@ -7,7 +7,7 @@ nav_order: 3
 
 ## Navigation in der Prüfung
 
-# Navigieren anhand der Fragenleiste unten im Fenster
+Navigieren Sie anhand der Fragenleiste **unten** im Prüfungsfenster
 ![Prüfungsnavigation-Fragenleiste](assets/navigation-bottombar.png)
 
 1. Möglichkeit: Navigieren anhand der Pfeile
@@ -21,7 +21,3 @@ nav_order: 3
 **Hinweis:**: beantwortete Fragen sind «orange» markiert (siehe Frage 4)
 
 [Back to top ](#top){: .btn }
-
-
-
-
