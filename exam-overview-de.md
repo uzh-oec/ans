@@ -15,6 +15,7 @@ Um die Prüfungseinstellungen anzupassen, müssen Sie sich innerhalb des Prüfun
 1. Ein Pop-Up zeigt Ihnen die möglichen Prüfungseinstellungen an:
 [![Prüfungseinstellungen-Popup](assets/examsettings-popup.png)](assets/examsettings-popup.png)
 
+---
 
 Folgende Einstellungen können angepasst werden:
 * **Schriftgrösse**
