@@ -33,8 +33,8 @@ Kreuzen Sie die Box **Confirm to submit the test** an und klicken Sie **Submit**
 Ist die Bearbeitungszeit der Prüfung zu Ende, dann erscheint ein Pop-up Fenster, welches Sie bittet die Prüfung einzureichen:
 [![Prüfung-exit](assets/exam-submit-popup.png)](assets/exam-submit-popup.png)
 
-Kreuzen Sie die Box and und klicken Sie **Submit** um die Prüfung einzureichen:
+Kreuzen Sie die Box an und klicken Sie **Submit** um die Prüfung einzureichen:
 [![Prüfung-exit](assets/exam-submitpopup-tickbox.png)](assets/exam-submitpopup-tickbox.png)
 
 
-**Hinweis**: Anders als beim aktiven Beenden der Prüfung, gibt es hier keinen **Resume**-Button
+**Hinweis**: Anders als beim aktiven Beenden der Prüfung, gibt es hier keinen **Resume**-Button.
