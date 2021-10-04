@@ -16,13 +16,13 @@ Um die Prüfungseinstellungen anzupassen, müssen Sie sich innerhalb des Prüfun
 ![Prüfungseinstellungen-Popup](assets/examsettings-popup.png) 
 
 Folgende Einstellungen können angepasst werden:
-* Schriftgrösse
-* Kontrast
-* Zeit
-* Benachrichtung 15 Minuten vor Ende der Prüfung 
+* **Schriftgrösse**
+* **Kontrast**
+* **Zeit**
+* **Benachrichtung 15 Minuten vor Ende der Prüfung** 
 
 
-1. Schriftgrösse (Font)
+1. **Schriftgrösse (Font)**
 
 Klicken Sie die Box "Use large font", um die Schriftgrösse zu vergrössern. 
 Vergleich der Schriftgrösse:
@@ -32,18 +32,18 @@ Vergleich der Schriftgrösse:
 * Gross: ![Prüfungseinstellungen-Fontgross](assets/examsettings-fontgross.png) 
 
 
-1. Kontrast (Contrast)
+1. **Kontrast (Contrast)**
 
 Klicken Sie die Box "Contrast", um den Kontrast zu aktivieren
 ![Prüfungseinstellungen-Kontrast](assets/examsettings-contrast.png) 
 
-1. Remaining Time
+1. **Remaining Time**
 
 Klicken Sie die Box "Show Remaining Time" an, um **oben-rechts" im Bild die verbleibende Zeit anzuzeigen
 
 ![Prüfungseinstellungen-Zeit](assets/examsettings-remainingtime.png) 
 
-1. Benachrichtigung 15 Minuten vor Prüfungsende
+1. **Benachrichtigung 15 Minuten vor Prüfungsende**
 
 Wenn Sie die Box "Notify when 15 minutes are left" anwählen, werden Sie 15 Minuten vor Ablauf der Prüfung anhand eines Pop-Ups darüber informiert
 
