@@ -15,9 +15,23 @@ nav_order: 5
 
 Wenn Sie die Prüfung beenden wollen, so haben Sie 2 Möglichkeiten:
 
-* Letzer Navigations-Pfeil anwählen: 
-Sind Sie bei der letzten Frage angekommen, so ist unten rechts im Bildschirm folgendes Icon ersichtlich: 
-![Prüfung-exit](assets/exam-.png) 
+* 1. Möglichkeit: Letzer Navigations-Pfeil anwählen: 
+Sind Sie bei der letzten Frage angekommen, so ist unten rechts im Bildschirm folgendes Icon ersichtlich
+![Prüfung-exit](assets/exam-exittest.png) 
+
+* 1. Möglichkeit: Exit anhand des **"3-Punkte"-Icon** **oben-rechts** im Bildschirm 
+
+und  **Exit Test** wählen
+![Prüfung-exit](assets/examsettings-icon.png) 
+
+
+Beide Möglichkeiten zeigen daraufhin ein Pop-Up an
+![Prüfung-exit](assets/exam-exittestactive.png) 
+
+Kreuzen Sie die Box **Confirm to submit the test** an und klicken Sie **Submit**
+
+**ACHTUNG**: Die Abgabe kann **NICHT** rückgängig gemacht werden. Wenn Sie sich nicht sicher sind, dann wählen Sie **RESUME LATER**
+
 
 ### Prüfungszeit ist abgelaufen
 
