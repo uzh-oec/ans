@@ -7,10 +7,6 @@ nav_order: 6
 
 ## Prüfung beenden
 
-### Prüfung unterbrechen
-
-(Are we doing this, considering the mentioned issue?)
-
 ### Prüfung eigenständig einreichen
 
 Wenn Sie die Prüfung beenden wollen, so haben Sie 2 Möglichkeiten:
@@ -42,3 +38,10 @@ Kreuzen Sie die Box an und klicken Sie **Submit** um die Prüfung einzureichen:
 
 
 **Hinweis**: Anders als beim aktiven Beenden der Prüfung, gibt es hier keinen **Resume**-Button.
+
+### Prüfung unterbrechen
+Falls Sie die Prüfung unterbrechen möchten, müssen Sie wie folgt vorgehen:
+* Klicken Sie auf das **"3-Punkte"-Icon** und wählen Sie **Exit Test**:  
+[![Prüfung-exit](assets/examsettings-icon.png)](assets/examsettings-icon.png)
+* Klicken Sie auf **RESUME LATER**:
+[![Prüfung-unterbrechen](assets/exam-exittestactive.png)](assets/exam-exittestactive.png)
