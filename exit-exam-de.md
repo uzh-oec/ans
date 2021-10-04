@@ -14,7 +14,9 @@ nav_order: 5
 ### Prüfung eigenständig einreichen
 
 Wenn Sie die Prüfung beenden wollen, so haben Sie 2 Möglichkeiten:
-* Letzer Navigations
+
+* Letzer Navigations-Pfeil anwählen: 
+Sind Sie bei der letzten Frage angekommen, so ist unten rechts im Bildschirm folgendes Icon ersichtlich: 
 ![Prüfung-exit](assets/exam-.png) 
 
 ### Prüfungszeit ist abgelaufen
