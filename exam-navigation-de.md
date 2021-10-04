@@ -6,7 +6,7 @@ has_children: true
 
 ## Prüfungsnavigation
 
-Nachfolgend finden Sie alle Informationen rund um die Navigation während er Prüfung.
+Nachfolgend finden Sie alle Informationen rund um die Navigation während der Prüfung.
 
 
 
