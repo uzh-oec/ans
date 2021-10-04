@@ -5,24 +5,35 @@ title: Prüfungseinstellungen
 
 ## Prüfungseinstellungen
 
-Wenn du dich innerhalb der Prüfungsmodus befindest, klicke **oben rechts** auf das **more_vert-icon**, um die Prüfungseinstellunge anzupassen. 
+Um die Prüfungseinstellungen anzupassen, müssen Sie sich innerhalb des Prüfungsmodus befinden:
+
+1. Klicken Sie **oben rechts** auf das **"3-Punke"-Icon**
+![Prüfungseinstellungen-icon](assets/examsettings-icon.png) 
+
+2. Ein Pop-Up zeigt Ihnen die Prüfungseinstellungen an
+ um die Prüfungseinstellungen anzupassen.
+![Prüfungseinstellungen-Popup](assets/examsettings-popup.png) 
+
 Folgende Einstellungen können angepasst werden:
-*Font:
-*Kontrast:
-*Zeit:
-*Benachrichtung 15 Minuten vor Ende der Prüfung
+*Schriftgrösse
+*Kontrast
+*Zeit
+*Benachrichtung 15 Minuten vor Ende der Prüfung 
 
-(Screenshot Exam Settings)
 
-1. Font
+1. Schriftgrösse (Font)
+
+
+
 (Screenshots)
 
 1. Contrast
 (Screenshots)
 
 1. Remaining Time
+ Die verbleibende Zeit ist oben rechts ersichtlich **Hinweise**: dies ist die einzige Einstellung, die bereits ausgewählt ist
 (Screenshots)
 
-1. Notifaction
+1. Benachrichtigung 15 Minuten vor Prüfungsende
 (Screenshots)
 
