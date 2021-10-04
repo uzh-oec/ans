@@ -7,7 +7,7 @@ nav_order: 1
 
 ## Prüfung starten
 
-Vor dem Start der Prüfung, sehen Sie den Leistungsnachweis unter "Scheduled assignment":
+Vor dem Start der Prüfung, sehen Sie den Leistungsnachweis unter "Scheduled assignments":
 
 [![Prüfungstarten-ScheduledAssignement](assets/assignment-scheduled.png)](assets/assignment-scheduled.png)
 
