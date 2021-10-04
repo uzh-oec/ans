@@ -6,12 +6,14 @@ title: Plattformübersicht
 ## Plattformübersicht (Overview)
 {: .no_toc }
 Wenn Sie sich auf Ans anmelden sehen Sie folgende Ansicht:
-[![Startseite-Uebersicht](assets/overview.png)]
+[![Startseite-Uebersicht](assets/overview.png)](assets/overview.png)
 
 Die einzelnen Bestandteile werden nachfolgend erläutert.
 
 1. Inhaltsübersicht
 {:toc}
+
+---
 
 ### Rechte Seite - Übersicht über Ihre Prüfungen und Leistungsnachweise
 Auf der rechten Seite der Plattform sehen Sie Ihnen zugewiesenen Leistungsnachweise:
