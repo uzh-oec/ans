@@ -15,13 +15,12 @@ nav_order: 5
 
 Wenn Sie die Prüfung beenden wollen, so haben Sie 2 Möglichkeiten:
 
-* Möglichkeit 1: Letzen Navigations-Pfeil anwählen: 
+* Möglichkeit 1: Letzen Navigations-Pfeil anwählen:
 Sind Sie bei der letzten Frage angekommen, so ist unten rechts im Bildschirm folgendes Icon ersichtlich:  
 [![Prüfung-exit](assets/exam-exittest.png)](assets/exam-exittest.png)
 
-* Möglichkeit 2: Exit anhand des **"3-Punkte"-Icon** **oben-rechts** im Bildschirm  
-[![Prüfungseinstellungen-icon](assets/examsettings-icon.png)](assets/examsettings-icon.png)  
-und  **Exit Test** wählen:
+* Möglichkeit 2: Exit anhand des **"3-Punkte"-Icon** **oben-rechts** im Bildschirm:
+Klicken Sie auf das **"3-Punkte"-Icon** und wählen Sie **Exit Test**:
 [![Prüfung-exit](assets/examsettings-icon.png)](assets/examsettings-icon.png)
 
 
