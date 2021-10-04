@@ -22,11 +22,11 @@ Wählen Sie eine beliebige Seite / Frage an:
 
 ## Prüfungsübersicht
 
-Abgesehen von der unteren Frageleiste gibt es zudem die **Seitenleiste**, welche **oben-rechts** mit dem folgenden Icon ausgeklappt werden kann
-![Prüfungsnavigation-Seitenleiste](assets/sidebar-icon.png)
+Abgesehen von der unteren Frageleiste gibt es zusätzlich die **Seitenleiste**, welche **oben-rechts** mit dem folgenden Icon ausgeklappt werden kann:  
+[![Prüfungsnavigation-Seitenleiste](assets/sidebar-icon.png)](assets/sidebar-icon.png)
 
 Die Seitenleiste gibt eine Übersicht der Fragen mit den Titeln und zeigt unten im B
-![Prüfungsnavigation-Seitenleiste](assets/sidebar.png)
+[![Prüfungsnavigation-Seitenleiste](assets/sidebar.png)](assets/sidebar.png)
 
 **Hinweis**: die Seitenleiste ist statisch, sodass es nicht möglich ist auf eine Frage zu klicken, um dahin zu gelangen. Bitte nutzen Sie dafür die [Frageleiste](https://uzh-oec.github.io/ans/navigation-during-exam-de.html#navigation-in-der-pr%C3%BCfung){:target="_blank"}
 
