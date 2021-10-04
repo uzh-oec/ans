@@ -14,10 +14,22 @@ Navigieren Sie anhand der Fragenleiste **unten** im Prüfungsfenster
 * **Zurück** zur vorherigen Frage mit ← (Im Screenshot: unten links)
 * **Weiter** zur nächsten Frage mit → (Im Screenshot: unten rechts)
 
+
 1. Möglichkeit: spezifische Frage auswählen
 * Wähle eine beliebige Seite / Frage an
 ![Prüfungsnavigation-Fragenleiste-klein](assets/navigation-bottombar-small.png)
 
 **Hinweis:**: beantwortete Fragen sind «orange» markiert (siehe Frage 4)
+
+
+## Prüfungsübersicht
+
+Abgesehen von der unteren Frageleiste gibt es zudem die **Seitenleiste**, welche **oben-rechts** mit dem folgenden Icon ausgeklappt werden kann
+![Prüfungsnavigation-Seitenleiste](assets/sidebar-icon.png)
+
+Die Seitenleiste gibt eine Übersicht der Fragen mit den Titeln und zeigt unten im B
+![Prüfungsnavigation-Seitenleiste](assets/sidebar.png)
+
+**Hinweis**: die Seitenleiste ist statisch, sodass es nicht möglich ist auf eine Frage zu klicken, um dahin zu gelangen. Bitte nutzen Sie dafür die [Frageleiste](https://uzh-oec.github.io/ans/navigation-during-exam-de.html#navigation-in-der-pr%C3%BCfung){:target="_blank"}
 
 [Back to top ](#top){: .btn }
