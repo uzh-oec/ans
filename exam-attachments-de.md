@@ -14,7 +14,7 @@ Wenn Attachements in der Prüfung vorhanden sind, dann ist dies **oben** in der 
 [![Attachment-Screen](assets/attachments-view.png)](assets/attachments-view.png)
 
 1. Nutze die **Split Screen** Funktion, um die Prüfung als auch den Anhang gleichzeitig anzuzeigen
-[![Attachment-SplitScreen-Bar](attachments-splitbar.png)](attachments-splitbar.png)
+[![Attachment-SplitScreen-Bar](assets/attachments-splitbar.png)](assets/attachments-splitbar.png)
 **Split Screen Visualisierung**
 [![Attachment-SplitScreen](assets/attachments-splitscreen.png)](assets/attachments-splitscreen.png)
 
