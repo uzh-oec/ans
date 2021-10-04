@@ -17,8 +17,7 @@ Navigieren Sie anhand der Fragenleiste **unten** im Prüfungsfenster:
 1. Möglichkeit: spezifische Frage auswählen
 Wählen Sie eine beliebige Seite / Frage an:
 [![Prüfungsnavigation-Fragenleiste-klein](assets/navigation-bottombar-small.png)](assets/navigation-bottombar-small.png)
-
-**Hinweis:**: beantwortete Fragen sind «orange» markiert (siehe Frage 4)
+**Hinweis:** beantwortete Fragen sind «orange» markiert (siehe Frage 4).
 
 
 ## Prüfungsübersicht
