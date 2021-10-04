@@ -16,10 +16,10 @@ Um die Prüfungseinstellungen anzupassen, müssen Sie sich innerhalb des Prüfun
 ![Prüfungseinstellungen-Popup](assets/examsettings-popup.png) 
 
 Folgende Einstellungen können angepasst werden:
-*Schriftgrösse
-*Kontrast
-*Zeit
-*Benachrichtung 15 Minuten vor Ende der Prüfung 
+* Schriftgrösse
+* Kontrast
+* Zeit
+* Benachrichtung 15 Minuten vor Ende der Prüfung 
 
 
 1. Schriftgrösse (Font)
