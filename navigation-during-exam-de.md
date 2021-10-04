@@ -6,6 +6,16 @@ nav_order: 3
 ---
 
 ## Navigation in der Prüfung
+{: .no_toc }
+
+Während der Prüfung stehen Ihnen zwei Orientierungshilfen zur Verfügung:
+
+1. Inhaltsübersicht
+{:toc}
+
+---
+
+### Navigationsleiste
 
 Navigieren Sie anhand der Fragenleiste **unten** im Prüfungsfenster:
 [![Prüfungsnavigation-Fragenleiste](assets/navigation-bottombar.png)](assets/navigation-bottombar.png)
@@ -20,7 +30,7 @@ Wählen Sie eine beliebige Seite / Frage an:
 **Hinweis:** beantwortete Fragen sind «orange» markiert (siehe Frage 4).
 
 
-## Prüfungsübersicht
+### Prüfungsübersicht
 
 Abgesehen von der unteren Frageleiste gibt es zusätzlich die **Seitenleiste**, welche **oben-rechts** mit dem folgenden Icon ausgeklappt werden kann:  
 [![Prüfungsnavigation-Seitenleiste](assets/sidebar-icon.png)](assets/sidebar-icon.png)

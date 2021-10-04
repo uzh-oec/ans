@@ -6,6 +6,13 @@ nav_order: 6
 ---
 
 ## Prüfung beenden
+{: .no_toc }
+Nachfolgend wird das Vorgehen fürs Beenden und Unterbrechen der Prüfung erläutert.
+
+1. Inhaltsübersicht
+{:toc}
+
+---
 
 ### Prüfung eigenständig einreichen
 
@@ -38,3 +45,10 @@ Kreuzen Sie die Box an und klicken Sie **Submit** um die Prüfung einzureichen:
 
 
 **Hinweis**: Anders als beim aktiven Beenden der Prüfung, gibt es hier keinen **Resume**-Button.
+
+### Prüfung unterbrechen
+Falls Sie die Prüfung unterbrechen möchten, müssen Sie wie folgt vorgehen:
+* Klicken Sie auf das **"3-Punkte"-Icon** und wählen Sie **Exit Test**:  
+[![Prüfung-exit](assets/examsettings-icon.png)](assets/examsettings-icon.png)
+* Klicken Sie auf **RESUME LATER**:  
+[![Prüfung-unterbrechen](assets/exam-exittestactive.png)](assets/exam-exittestactive.png)
