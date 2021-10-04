@@ -7,6 +7,7 @@ nav_order: 4
 
 ## Attachments
 
+Es kann sein, dass Ihnen in der Prüfung Unterlagen zur Verfügung gestellt werden.
 Wenn Attachements in der Prüfung vorhanden sind, dann ist dies **oben** in der Bildschirmansicht ersichtlich:
 [![Split-Screen-Leiste](assets/attachments-bar.png)](assets/attachments-bar.png)
 
@@ -15,7 +16,8 @@ Wenn Attachements in der Prüfung vorhanden sind, dann ist dies **oben** in der 
 
 1. Nutze die **Split Screen** Funktion, um die Prüfung als auch den Anhang gleichzeitig anzuzeigen
 [![Attachment-SplitScreen-Bar](assets/attachments-splitbar.png)](assets/attachments-splitbar.png)
-**Split Screen Visualisierung**
+
+    **Split Screen Visualisierung**
 [![Attachment-SplitScreen](assets/attachments-splitscreen.png)](assets/attachments-splitscreen.png)
 
 
