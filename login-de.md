@@ -6,10 +6,10 @@ title: Ans Login
 ## Ans Login
 
 1. Klicken Sie [hier](https://ans.app/users/sign_in){:target="_blank"} oder kopieren Sie den folgenden Link [https://ans.app/users/sign_in](https://ans.app/users/sign_in){:target="_blank"} in Ihren Browser (Firefox oder Chrome)
-![Login-WAYF](assets/login-wayf.png)
+[![Login-WAYF](assets/login-wayf.png)](
 
 1. Unter **Log in with your school account** geben Sie “University of Zurich” oder "UZH" ein
-![Login-UZH](assets/login-uzh.png)
+![Login-UZH](assets/login-uzh.png)](assets/login-uzh.png)
 
 1. Sobald Sie “University of Zurich (UZH)" auswählen, werden Sie zum AAI-Login der Universität Zürich weitergeleitet und melden sich da mit Ihrer UZH-Kennung (shortname) und Passwort an
 ![Login-AAI](assets/login-aai.png)
