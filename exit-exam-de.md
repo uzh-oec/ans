@@ -20,7 +20,7 @@ Sind Sie bei der letzten Frage angekommen, so ist unten rechts im Bildschirm fol
 [![Prüfung-exit](assets/exam-exittest.png)](assets/exam-exittest.png)
 
 * Möglichkeit 2: Exit anhand des **"3-Punkte"-Icon** **oben-rechts** im Bildschirm  
-[![Prüfungseinstellungen-icon](assets/examsettings-icon.png)](assets/examsettings-icon.png)
+[![Prüfungseinstellungen-icon](assets/examsettings-icon.png)](assets/examsettings-icon.png)  
 und  **Exit Test** wählen:
 [![Prüfung-exit](assets/examsettings-icon.png)](assets/examsettings-icon.png)
 
