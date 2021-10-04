@@ -24,7 +24,7 @@ Sind Sie bei der letzten Frage angekommen, so ist unten rechts im Bildschirm fol
 Ist die Bearbeitungszeit der Prüfung zu Ende, dann erhalten Sie ein Pop-Up, welches Sie bittet die Prüfung einzureichen:
 ![Prüfung-exit](assets/exam-submit-popup.png) 
 
-Kreuzen Sie die Box and und klicken Sie **Submit"" um die Prüfung einzureichen
+Kreuzen Sie die Box and und klicken Sie **Submit** um die Prüfung einzureichen
 
 ![Prüfung-exit](assets/exam-submitpopup-tickbox.png) 
 
