@@ -14,9 +14,9 @@ Vor dem Start der Prüfung, sehen Sie das Assignement unter "Scheduled assignmen
 1. Wenn Sie auf die bevorstehende Prüfung (Scheduled Assignement) klicken, erscheint der Countdown
 ![Prüfungstarten-Countdown](assets/assignement-countdown.png)
 
-1. Sobald der Countdown auf 00:00 fällt, lädt sich die Seite neu
+1. Sobald der Countdown auf **00:00** fällt, lädt sich die Seite neu
 
-1. Die Prüfung wird angezeigt und kann mit dem Klick auf den Start-Knopf begonnen werden
+1. Die Prüfung wird angezeigt und kann mit dem Klick auf den **Start**-Knopf begonnen werden
 ![Prüfungstarten-Start](assets/assignement-start.png)
 
 
