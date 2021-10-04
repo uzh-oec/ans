@@ -5,25 +5,56 @@ parent: Prüfungsnavigation
 nav_order: 2
 ---
 
-## Prüfungsübersicht
+## Prüfungseinstellungen
 
-1. Auf der rechten Seite der Plattform sehen Sie Ihnen zugewiesenen Assignments:xfgjfghjgf
-* Scheduled assignments (a)
-* Live assignments (b)
-* Published assignments (c)
-![Startseite-Uebersicht-Rechts](assets/test.jpg)
+Um die Prüfungseinstellungen anzupassen, müssen Sie sich innerhalb des Prüfungsmodus befinden:
 
-1. Oben links finden Sie folgendes:
-* Die Suchleiste (a)
-* Ihren Namen und die Institution (b)
-* Die Kurse in welchen Sie eingeschrieben sind (c)
-![Startseite-Uebersicht-Links](assets/overview-left.png)
+1. Klicken Sie **oben rechts** auf das **"3-Punkte"-Icon** und wählen **Settings** aus
 
-1. Oben rechts finden Sie:
-* Das Profilsymbol für Kontoeinstellungen & Logout  
-![Startseite-Uebersicht-Einstellungen](assets/overview-settings.png)
-* Das Hilfesymbol mit dem [Help Center](https://support.ans.app/hc/en-us){:target="_blank"} für weitere Ressourcen
-![Startseite-Uebersicht-Hilfe](assets/overview-help.png)
+![Prüfungseinstellungen-icon](assets/examsettings-icon.png) 
+
+1. Ein Pop-Up zeigt Ihnen die Prüfungseinstellungen an
+
+![Prüfungseinstellungen-Popup](assets/examsettings-popup.png) 
+
+Folgende Einstellungen können angepasst werden:
+* **Schriftgrösse**
+* **Kontrast**
+* **Zeit**
+* **Benachrichtung 15 Minuten vor Ende der Prüfung** 
+
+
+
+1. **Schriftgrösse (Font)**
+
+Klicken Sie die Box "Use large font", um die Schriftgrösse zu vergrössern. 
+Vergleich der Schriftgrösse:
+
+* Normal: ![Prüfungseinstellungen-Fontnormal](assets/examsettings-fontnormal.png) 
+
+* Gross: ![Prüfungseinstellungen-Fontgross](assets/examsettings-fontgross.png) 
+
+
+1. **Kontrast (Contrast)**
+
+Klicken Sie die Box "Use high contrast mode", um den Kontrast zu aktivieren
+![Prüfungseinstellungen-Kontrast](assets/examsettings-contrast.png) 
+
+
+1. **Remaining Time**
+
+Klicken Sie die Box "Show Remaining Time" an, um **oben-rechts" im Bild die verbleibende Zeit anzuzeigen
+
+![Prüfungseinstellungen-Zeit](assets/examsettings-remainingtime.png) 
+
+
+1. **Benachrichtigung 15 Minuten vor Prüfungsende**
+
+Wenn Sie die Box "Notify when 15 minutes are left" anwählen, werden Sie 15 Minuten vor Ablauf der Prüfung anhand eines Pop-Ups darüber informiert
+
+![Prüfungseinstellungen-15min](assets/examsettings-15min.png) 
+
+
 
 [Back to top ](#top){: .btn }
 
