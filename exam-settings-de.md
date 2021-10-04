@@ -7,11 +7,12 @@ title: Prüfungseinstellungen
 
 Um die Prüfungseinstellungen anzupassen, müssen Sie sich innerhalb des Prüfungsmodus befinden:
 
-1. Klicken Sie **oben rechts** auf das **"3-Punke"-Icon**
+1. Klicken Sie **oben rechts** auf das **"3-Punkte"-Icon**
+
 ![Prüfungseinstellungen-icon](assets/examsettings-icon.png) 
 
 2. Ein Pop-Up zeigt Ihnen die Prüfungseinstellungen an
- um die Prüfungseinstellungen anzupassen.
+
 ![Prüfungseinstellungen-Popup](assets/examsettings-popup.png) 
 
 Folgende Einstellungen können angepasst werden:
