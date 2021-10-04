@@ -7,23 +7,17 @@ nav_order: 1
 
 ## Prüfung starten
 
-1. Auf der rechten Seite der Plattform sehen Sie Ihnen zugewiesenen Assignments:
-* Scheduled assignments (a)
-* Live assignments (b)
-* Published assignments (c)
-![Startseite-Uebersicht-Rechts](assets/overview-right.png)
+Vor dem Start der Prüfung, sehen Sie das Assignement unter "Scheduled assignment"
+![Prüfungstarten-ScheduledAssignement](assets/assignement-scheduled.png)
 
-1. Oben links finden Sie folgendes:
-* Die Suchleiste (a)
-* Ihren Namen und die Institution (b)
-* Die Kurse in welchen Sie eingeschrieben sind (c)
-![Startseite-Uebersicht-Links](assets/overview-left.png)
+1. Wenn Sie auf die bevorstehende Prüfung (Scheduled Assignement) klicken, erscheint der Countdown
+ ![Prüfungstarten-Countdown](assets/assignement-countdown-png)
 
-1. Oben rechts finden Sie:
-* Das Profilsymbol für Kontoeinstellungen & Logout  
-![Startseite-Uebersicht-Einstellungen](assets/overview-settings.png)
-* Das Hilfesymbol mit dem [Help Center](https://support.ans.app/hc/en-us){:target="_blank"} für weitere Ressourcen
-![Startseite-Uebersicht-Hilfe](assets/overview-help.png)
+1. Sobald der Countdown auf 00:00 fällt, lädt sich die Seite neu und lädt die Prüfung
+
+1. Die Prüfung wird angezeigt und kann mit dem Klick auf den Start-Knopf begonnen werden
+![Prüfungstarten-Start](assets/assignement-start.png)
+
 
 [Back to top ](#top){: .btn }
 
