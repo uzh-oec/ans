@@ -24,17 +24,30 @@ Folgende Einstellungen können angepasst werden:
 
 1. Schriftgrösse (Font)
 
+Klicken Sie die Box "Use large font", um die Schriftgrösse zu vergrössern. 
+Vergleich der Schriftgrösse:
+
+* Normal: ![Prüfungseinstellungen-Fontnormal](assets/examsettings-fontnormal.png) 
+
+* Gross: ![Prüfungseinstellungen-Fontgross](assets/examsettings-fontgross.png) 
 
 
-(Screenshots)
+1. Kontrast (Contrast)
 
-1. Contrast
-(Screenshots)
+Klicken Sie die Box "Contrast", um den Kontrast zu aktivieren
+![Prüfungseinstellungen-Kontrast](assets/examsettings-contrast.png) 
 
 1. Remaining Time
- Die verbleibende Zeit ist oben rechts ersichtlich **Hinweise**: dies ist die einzige Einstellung, die bereits ausgewählt ist
-(Screenshots)
+
+Klicken Sie die Box "Show Remaining Time" an, um **oben-rechts" im Bild die verbleibende Zeit anzuzeigen
+
+![Prüfungseinstellungen-Zeit](assets/examsettings-remainingtime.png) 
 
 1. Benachrichtigung 15 Minuten vor Prüfungsende
-(Screenshots)
 
+Wenn Sie die Box "Notify when 15 minutes are left" anwählen, werden Sie 15 Minuten vor Ablauf der Prüfung anhand eines Pop-Ups darüber informiert
+
+![Prüfungseinstellungen-15min](assets/examsettings-15min.png) 
+
+
+[Back to top ](#top){: .btn }
