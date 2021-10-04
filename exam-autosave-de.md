@@ -2,7 +2,7 @@
 id: exam_autosave_de
 title: Prüfungsfortschritt speichern
 parent: Prüfungsnavigation
-nav_order: 
+nav_order: 5
 ---
 
 ## Speichern der Antworten
