@@ -40,7 +40,7 @@ Kreuzen Sie die Box **Confirm to submit the test** an und klicken Sie **Submit**
 Ist die Bearbeitungszeit der Prüfung zu Ende, dann erscheint ein Pop-up Fenster, welches Sie bittet die Prüfung einzureichen:
 [![Prüfung-exit](assets/exam-submit-popup.png)](assets/exam-submit-popup.png)
 
-Kreuzen Sie die Box an und klicken Sie **Submit** um die Prüfung einzureichen:
+Kreuzen Sie die Box an und klicken Sie **Submit**, um die Prüfung einzureichen:
 [![Prüfung-exit](assets/exam-submitpopup-tickbox.png)](assets/exam-submitpopup-tickbox.png)
 
 
@@ -52,3 +52,5 @@ Falls Sie die Prüfung unterbrechen möchten, müssen Sie wie folgt vorgehen:
 [![Prüfung-exit](assets/examsettings-icon.png)](assets/examsettings-icon.png)
 * Klicken Sie auf **RESUME LATER**:  
 [![Prüfung-unterbrechen](assets/exam-exittestactive.png)](assets/exam-exittestactive.png)
+
+
