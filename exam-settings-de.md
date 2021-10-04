@@ -1,6 +1,8 @@
 ---
 id: examsettings_de
 title: Prüfungseinstellungen
+parent: Prüfungsübersicht
+nav_order: 1
 ---
 
 ## Prüfungseinstellungen
