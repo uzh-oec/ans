@@ -7,6 +7,6 @@ nav_order:
 
 ## Speichern der Antworten
 
-Generell werden Ihre Antworten alle 30 Sekunden gespeichert. Dabei zeigt sich rechts, unterhalb der Frage jeweils auch ein "Updated Just Now"
+Generell werden Ihre Antworten alle 30 Sekunden gespeichert. Der Speichervorgang wird rechts, unterhalb der jeweiligen Frage mit "Updated Just Now" angezeigt
 ![Prüfung-autosave](assets/exam-autosave.png) 
 
