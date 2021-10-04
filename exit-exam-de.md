@@ -7,10 +7,6 @@ nav_order: 6
 
 ## Prüfung beenden
 
-### Prüfung unterbrechen
-
-(Are we doing this, considering the mentioned issue?)
-
 ### Prüfung eigenständig einreichen
 
 Wenn Sie die Prüfung beenden wollen, so haben Sie 2 Möglichkeiten:
