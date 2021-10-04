@@ -20,13 +20,12 @@ Sind Sie bei der letzten Frage angekommen, so ist unten rechts im Bildschirm fol
 [![Prüfung-exit](assets/exam-exittest.png)](assets/exam-exittest.png)
 
 * Möglichkeit 2: Exit anhand des **"3-Punkte"-Icon** **oben-rechts** im Bildschirm:
-Klicken Sie auf das **"3-Punkte"-Icon** und wählen Sie **Exit Test**:
+Klicken Sie auf das **"3-Punkte"-Icon** und wählen Sie **Exit Test**:  
 [![Prüfung-exit](assets/examsettings-icon.png)](assets/examsettings-icon.png)
 
 
-Beide Möglichkeiten zeigen daraufhin ein Pop-Up an
-
-![Prüfung-exit](assets/exam-exittestactive.png) 
+Beide Möglichkeiten zeigen daraufhin das gleiche Pop-Up an:
+[![Prüfung-exit](assets/exam-exittestactive.png)](assets/exam-exittestactive.png)
 
 Kreuzen Sie die Box **Confirm to submit the test** an und klicken Sie **Submit**
 
