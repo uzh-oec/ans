@@ -6,7 +6,7 @@ nav_order: 6
 ---
 
 ## Prüfung beenden
-
+{: .no_toc }
 Nachfolgend wird das Vorgehen fürs Beenden und Unterbrechen der Prüfung erläutert.
 
 1. Inhaltsübersicht
