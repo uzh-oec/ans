@@ -11,7 +11,7 @@ Um die Prüfungseinstellungen anzupassen, müssen Sie sich innerhalb des Prüfun
 
 ![Prüfungseinstellungen-icon](assets/examsettings-icon.png) 
 
-2. Ein Pop-Up zeigt Ihnen die Prüfungseinstellungen an
+1. Ein Pop-Up zeigt Ihnen die Prüfungseinstellungen an
 
 ![Prüfungseinstellungen-Popup](assets/examsettings-popup.png) 
 
@@ -35,7 +35,7 @@ Vergleich der Schriftgrösse:
 
 1. **Kontrast (Contrast)**
 
-Klicken Sie die Box "Contrast", um den Kontrast zu aktivieren
+Klicken Sie die Box "Use high contrast mode", um den Kontrast zu aktivieren
 ![Prüfungseinstellungen-Kontrast](assets/examsettings-contrast.png) 
 
 
