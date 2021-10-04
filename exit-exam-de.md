@@ -24,22 +24,21 @@ Klicken Sie auf das **"3-Punkte"-Icon** und wählen Sie **Exit Test**:
 [![Prüfung-exit](assets/examsettings-icon.png)](assets/examsettings-icon.png)
 
 
-Beide Möglichkeiten zeigen daraufhin das gleiche Pop-Up an:
+Beide Möglichkeiten zeigen daraufhin das gleiche Pop-up an:
 [![Prüfung-exit](assets/exam-exittestactive.png)](assets/exam-exittestactive.png)
 
-Kreuzen Sie die Box **Confirm to submit the test** an und klicken Sie **Submit**
+Kreuzen Sie die Box **Confirm to submit the test** an und klicken Sie **Submit**.
 
-**ACHTUNG**: Die Abgabe kann **NICHT** rückgängig gemacht werden. Wenn Sie sich nicht sicher sind, dann wählen Sie **RESUME LATER**
+**ACHTUNG**: Die Abgabe kann **NICHT** rückgängig gemacht werden. Wenn Sie sich nicht sicher sind, dann wählen Sie **RESUME LATER** oder drücken Sie die "Esc"-Taste.
 
 
 ### Prüfungszeit ist abgelaufen
 
-Ist die Bearbeitungszeit der Prüfung zu Ende, dann erhalten Sie ein Pop-Up Fenster, welches Sie bittet die Prüfung einzureichen:
-![Prüfung-exit](assets/exam-submit-popup.png) 
+Ist die Bearbeitungszeit der Prüfung zu Ende, dann erscheint ein Pop-up Fenster, welches Sie bittet die Prüfung einzureichen:
+[![Prüfung-exit](assets/exam-submit-popup.png)](assets/exam-submit-popup.png)
 
-Kreuzen Sie die Box and und klicken Sie **Submit** um die Prüfung einzureichen
-
-![Prüfung-exit](assets/exam-submitpopup-tickbox.png) 
+Kreuzen Sie die Box and und klicken Sie **Submit** um die Prüfung einzureichen:
+[![Prüfung-exit](assets/exam-submitpopup-tickbox.png)](assets/exam-submitpopup-tickbox.png)
 
 
 **Hinweis**: Anders als beim aktiven Beenden der Prüfung, gibt es hier keinen **Resume**-Button
