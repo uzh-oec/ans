@@ -32,4 +32,4 @@ Die Seitenleiste gibt eine Übersicht der Fragen mit den Titeln und zeigt unten 
 
 **Hinweis**: die Seitenleiste ist statisch, sodass es nicht möglich ist auf eine Frage zu klicken, um dahin zu gelangen. Bitte nutzen Sie dafür die [Frageleiste](https://uzh-oec.github.io/ans/navigation-during-exam-de.html#navigation-in-der-pr%C3%BCfung){:target="_blank"}
 
-[Back to top ](#top){: .btn }
+
