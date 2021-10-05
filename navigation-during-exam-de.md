@@ -21,7 +21,8 @@ Wählen Sie eine beliebige Seite / Frage an:
 
 **eingeschränkte Navigation**: Je nachdem, wie die Prüfung aufgesetzt wurde, ist es möglich, dass 
 * Fragen nur der Reihe nach beantwortet werden können
-* Fragengruppen nicht wieder geöffnet werden können, aber innerhalb des Fragenblocks navigiert werden kann
+* Fragengruppen nicht wieder geöffnet werden können, aber innerhalb des Fragenblocks navigiert werden kann. Fragengruppen sind in der Fragenleiste als auch in der Seitenleiste in einer gemeinsamen grauen Box untergebracht
+[![Prüfungsnavigation-Navigation-Fragengruppe](assets/exam-navigation-group.png)](assets/exam-navigation-group.png)
 
 In beiden Fällen wird eine Pop-Up Nachricht angezeigt, wenn man den **Weiter**-Pfeil anklickt bzw. in der Frageleiste eine andere Seite anklickt
 [![Prüfungsnavigation-Navigation-blocked](assets/exam-navigation-blocked.png)](assets/exam-navigation-blocked.png)
