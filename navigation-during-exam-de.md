@@ -19,6 +19,15 @@ Wählen Sie eine beliebige Seite / Frage an:
 [![Prüfungsnavigation-Fragenleiste-klein](assets/navigation-bottombar-small.png)](assets/navigation-bottombar-small.png)
 **Hinweis:** beantwortete Fragen sind «orange» markiert (siehe Frage 4).
 
+**eingeschränkte Navigation**: Je nachdem, wie die Prüfung aufgesetzt wurde, ist es möglich, dass 
+* Fragen nur der Reihe nach beantwortet werden können
+* Fragengruppen nicht wieder geöffnet werden können, aber innerhalb des Fragenblocks navigiert werden kann
+
+In beiden Fällen wird eine Pop-Up Nachricht angezeigt, wenn man den **Weiter**-Pfeil anklickt bzw. in der Frageleiste eine andere Seite anklickt
+[![Prüfungsnavigation-Navigation-blocked](assets/exam-navigation-blocked.png)](assets/exam-navigation-blocked.png)
+
+Wenn die Warnung mit **Continue** bestätigt wird, ist die nächste Frage ersichtilch und die vorherige Frage oder die Fragengruppe ist mit einem **Schloss**-Symbol in der Frageleiste versehen
+[![Prüfungsnavigation-Navigation-lock](assets/exam-navigation-lock.png)](assets/exam-navigation-lock.png)
 
 ## Prüfungsübersicht
 
