@@ -1,6 +1,7 @@
 ---
 id: overview_de
 title: Plattformübersicht
+nav_order: 3
 ---
 
 ## Plattformübersicht (Overview)

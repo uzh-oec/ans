@@ -1,6 +1,7 @@
 ---
 id: exam_navigation_de
 title: Prüfungsnavigation
+nav_order: 4
 has_children: true
 ---
 
