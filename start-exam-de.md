@@ -19,6 +19,6 @@ Vor dem Start der Prüfung, sehen Sie den Leistungsnachweis unter "Scheduled ass
 1. Nun müssen Sie bestätigen, dass Sie sich an den Ehrenkodex halten werden und können die Prüfung im Anschluss mit dem Klick auf den **Start**-Button beginnen:
 [![Prüfungstarten-Start](assets/assignment-code-of-honor.png)](assets/assignment-code-of-honor.png)
 
-**Hinweis: bei der Verwendung des Safe Exam Browser mit Ans ist das Starten der Prüfung anders. Sehen Sie dazu die [SEB Dokumentation](https://uzh-oec.github.io/seb/exam_seb_ans_de.html){:target="_blank"}.
+**Hinweis**: bei der Verwendung des Safe Exam Browser mit Ans ist das Starten der Prüfung anders. Sehen Sie dazu die [SEB Dokumentation](https://uzh-oec.github.io/seb/exam_seb_ans_de.html){:target="_blank"}.
 
 
