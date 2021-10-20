@@ -1,6 +1,6 @@
 ---
 id: ans-seb_de
-title: Ans & Safe Exam Browser
+title: Ans & SEB mit Windows
 nav_order: 5
 ---
 
