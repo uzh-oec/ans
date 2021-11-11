@@ -14,10 +14,11 @@ Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](https://uzh-o
 
 1. Sie erhalten zeitnah zu jeder Prüfung eine Konfigurationsdatei mit der Endung **.seb** auf folgender Website: [https://oec.uzh.ch/de/seb](https://oec.uzh.ch/de/seb){:target="_blank"}
 
-1. Laden Sie die Datei herunter, öffnen Sie die Datei und klicken Sie **OK** bei der folgenden Anzeige
-[![SEB-Ans-openfile](assets/SEB_Ans_openfile.png)](SEB_Ans_openfile.png)
+1. Sobald Sie sich auf der oben genannten Website befinden, gehen Sie zum Abschnitt **Modulspezifische Informationen** und wählen Ihr Modul an.
 
-1. Der SEB startet 
+1. Auf der jeweiligen Modulseite finden Sie verschiedene Testläufe sowie die Prüfung aufgelistet. Gehen Sie zu dem jeweiligen  (z.B. Infrastrukturtest), für den Sie die Konfigurationsdatei benötigen, und wählen Sie **DATEINAME starten** (hier "Infrastrukturtest starten). 
+
+1. Die Konfigurationsdatei lädt und startet den SEB
 [![SEB-Ans-start](assets/SEB_Ans_start.png)](assets/SEB_Ans_start.png)
 
 1. Nur kurz zeigt sich folgendes Bild
