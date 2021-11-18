@@ -32,13 +32,11 @@ Bitte beachten Sie die Checkliste unter [Allgemeine Informationen](https://uzh-o
 * Hat die Prüfung bereits gestartet, finden Sie die Prüfung unter **Live assignments**
 Alle weiteren Informationen zu Ans finden Sie [hier](https://uzh-oec.github.io/ans/exam-navigation-de.html){:target="_blank"}
 
-1. Zusätzlich öffent sich das **Zoom Meeting**. 
-[![SEB-Ans-Zoom-Mac](assets/SEB_Ans_Zoom_mac.png)](assets/SEB_Ans_Zoom_mac.png)
 
-1. Es wird empfohlen, dass Sie:
-* den Ton Ihres Gerätes abschalten
-* das Fenster **verkleinern** und auf die linke oder rechte Seite des Bildschims schieben
-[![SEB-Ans-Zoom-Mac](assets/SEB_Ans_Zoom_minimize_mac.png)](assets/SEB_Ans_Zoom_minimize_mac.png)
+1. Unten rechts im SEB ist nun auch das Videoprocotring unter dem Profil-Symbol aktiv. Bitte machen Sie folgende Anpassungen falls nötig:
+* Das Mikrofon ist eingeschaltet (obligatorisch)
+* Den Ton des Gerätes ist ausgeschaltet
+
 
 1. Die Prüfung wird nun angezeigt.
 Alle weiteren Informationen zu Ans finden Sie [hier](https://uzh-oec.github.io/ans/exam-navigation-de.html){:target="_blank"}
