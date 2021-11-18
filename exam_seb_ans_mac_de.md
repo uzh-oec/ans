@@ -35,6 +35,7 @@ Alle weiteren Informationen zu Ans finden Sie [hier](https://uzh-oec.github.io/a
 1. Unten rechts im SEB ist nun auch das **Videoprocotring** unter dem Profil-Symbol aktiv. Bitte machen Sie folgende Anpassungen falls nötig:
 * Das Mikrofon ist eingeschaltet (obligatorisch)
 * Den Ton des Gerätes ist ausgeschaltet
+**Hinweis**: Je nach Betriebssystem sehen Sie sich selber nicht, folglich ist es am einfachsten, sich zeitgleich mit einem / einer anderen/r Student/in einzuloggen und sich gegenseitig zu bestätigen, dass die Kamera der Gerätes funktioniert
 
 1. Die Prüfung wird nun angezeigt.
 Alle weiteren Informationen zu Ans finden Sie [hier](https://uzh-oec.github.io/ans/exam-navigation-de.html){:target="_blank"}
